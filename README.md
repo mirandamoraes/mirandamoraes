@@ -1,1 +1,1 @@
-## WELCOME TO THE MIRANDA'S WORLD! 🌎
+## Miranda's Profile 🌎
