@@ -1,5 +1,11 @@
 ![picture alt](https://media.discordapp.net/attachments/826923765954510858/898775570840702996/unknown.png?width=957&height=239 "Title is optional")
-##
+
+<div align="center">
+  <h3>Sobre mim</h3>
+</div>
+
+## 
+
 <div align="center">
   <a href="https://github.com/mirandamoraes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mirandamoraes&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
