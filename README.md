@@ -1,7 +1,6 @@
 ![picture alt](https://media.discordapp.net/attachments/826923765954510858/898775570840702996/unknown.png?width=957&height=239 "Title is optional")
 
 <div align="center">
-  <h3>Sobre mim</h3>
 </div>
 
 ## 
