@@ -1,7 +1,7 @@
 <h1 align = "center"> Pedro Miranda </h1>
 <h3 align = "center"> Quem sou eu? </h3>
 
-Técnico em Informática e graduando em Ciência da Computação, apaixonado por tecnologia e novos desafios. Uma pessoa altamente disciplinada, tendo liderado pessoas e realizado diversos projetos. Proficiente em grandes tecnologias como sistemas Linux e C++.
+Técnico em Informática e graduando em Ciência da Computação, apaixonado por tecnologia e novos desafios. Uma pessoa altamente disciplinada, de facil aprendizagem e resolução de problemas. Proficiente em grandes tecnologias como sistemas Linux e C++.
 
 <h3 align = "center"> Status Github </h3>
 
